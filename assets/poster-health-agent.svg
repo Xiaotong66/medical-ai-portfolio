@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#e4f3f5"/>
+  <rect x="116" y="116" width="1048" height="488" rx="18" fill="#ffffff" stroke="#bdd8de"/>
+  <text x="640" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#0f6b78">智能健康助手 Agent 系统</text>
+  <text x="640" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#5b6673">Demo video placeholder</text>
+</svg>
